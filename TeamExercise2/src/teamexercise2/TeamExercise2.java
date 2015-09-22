@@ -25,7 +25,8 @@ public class TeamExercise2 {
     }
     
     public void cock(){
-            
+            int test = 0;
+            System.out.println(test);
         }
     
 }
