@@ -17,6 +17,15 @@ public class TeamExercise2 {
     public static void main(String[] args) {
         System.out.println("BALLS");
         System.out.println("random");
+        
+        
+        
+        
+        
     }
+    
+    public void cock(){
+            
+        }
     
 }
