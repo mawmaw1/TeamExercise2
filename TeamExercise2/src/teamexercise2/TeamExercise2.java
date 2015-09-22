@@ -25,12 +25,16 @@ public class TeamExercise2 {
     }
     
     public void cock(){
+<<<<<<< HEAD
 
             int test = 0;
 
             
 
             System.out.println(test);
+=======
+            
+>>>>>>> parent of a02430a... test 1
         }
     
 }
